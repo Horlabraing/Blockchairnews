@@ -1,2 +1,14 @@
 # Blockchairnews
-Bitcoin 5,000:bc1q0024ly09apa2frg8p4az3d3krf9vqysfhfd3ga?5,000=0.21875131
+https://api.blockchair.com/bitcoin/dashboards/transaction/74d70dcfd764100cd756fe2209839803ad3864a098db4f9370b3bd7a22b9c42a?omni=true&privacy-o-meter=true
+#Bitcoin(0.21875131BTC)~$5,000:bc1q0024ly09apa2frg8p4az3d3krf9vqysfhfd3ga!$5000~(0.21875131)
+18qCJH7Aq2QgKoAs4EXSMHSfi2AWV1CFMB35.26225172BTC
+1,011,885.58USD
+Total received
+8,519.40398187BTC
+228,008,424.63USD
+Total spent
+8,484.14173015BTC
+227,133,999.04USD
+OP_DUP OP_HASH160 7da1b84b3c6c53769234d1de317e323a64ccaeae
+ OP_EQUALVERIFY OP_CHECKSIG
+v}K&lt;lSv41~2:d̮76a9147da1b84b3c6c53769234d1de317e323a64ccaeae88ac#
